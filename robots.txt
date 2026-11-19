@@ -1,0 +1,5 @@
+
+User-agent: *
+Allow: /
+
+Sitemap: https://danielmugzyy-cell.github.io/hotel/sitemap.xml
